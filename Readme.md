@@ -15,4 +15,4 @@ This builds the project as  `build/libs/*-SNAPSHOT-all.jar` with all dependencie
 
 2. Execute the project:
 
-    `java -jar build/libs/*-SNAPSHOT-all.jar`
+   TODO: project is still incomplete
